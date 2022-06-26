@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Scholaps</string>
     <!-- TODO: Remove or change this placeholder text -->
+    <string name="select">Select Item</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro_scholaps">Scholaps merupakan aplikasi pencari informasi beasiswa yang sekiranya bisa digunakan untuk semua kalangan baik itu calon mahasiswa, mahasiswa, dan umum.</string>
 </resources>
